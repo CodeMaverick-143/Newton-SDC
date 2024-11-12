@@ -45,10 +45,6 @@ To contribute to this project, follow these steps:
 - **JavaScript**: To add interactivity, including dynamic date-time functionality.
 - **Netlify**: For deployment and hosting of the live site.
 
-## 📸 Screenshots
-
-![NST-SDC Screenshot](path/to/screenshot.png)
-
 ## 👫 Contributing
 
 We welcome contributions to enhance our website and improve functionality. To contribute:
